@@ -1,7 +1,7 @@
 # SCRATCH Stabilizer Bridge
 
 A Custom Command for Assimilate SCRATCH that stabilizes the selected Shot
-using the [stabilo](https://github.com/aloshy-ai/stabilo) library and
+using the [stabilo](https://github.com/rfonod/stabilo) library and
 imports the result back into the timeline as a new version — no leaving
 SCRATCH, no manual export/reimport.
 
