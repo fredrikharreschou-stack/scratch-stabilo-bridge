@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Assimilate Product Suite-->
+<custom_commands version="9.9">
+   <command uuid="81a31819-09af-4bfc-b758-71e002e10c1e" type="app" blocking="N" minimize_on_exe="N" player_menu="Y" shot_selection="Y">
+       <title>Stabilize Shot (stabilo)</title>
+       <cmdline>D:\test\cleaudeScrathc\stabilizer_launcher.bat</cmdline>
+       <inputs>
+           <input uuid="01f469cc-2ce8-4b47-ab66-89dd867ddbc1" type="3" store="0"><label>Lock to</label><value>First frame, Middle frame, Last frame</value></input>
+           <input uuid="05c61f9f-2c25-4441-9559-78e56dd0e65c" type="5" store="0"><label>Auto-crop wobble borders</label><value>yes</value></input>
+           <input uuid="7ad6618b-3de1-494e-8dfb-43e7af6d68e1" type="3" store="0"><label>Detector</label><value>Fast (ORB), Accurate (SIFT, slower)</value></input>
+       </inputs>
+   </command>
+</custom_commands>

@@ -1,0 +1,15 @@
+# uv cache/temp created next to the script when run from this folder
+.uv-cache/
+.uv-tmp/
+
+# Python
+__pycache__/
+*.pyc
+
+# Stabilized output SCRATCH points at by path -- never delete this
+# while the corresponding shot/version still exists in your project
+StabilizedShots/
+
+# OS cruft
+Thumbs.db
+.DS_Store
